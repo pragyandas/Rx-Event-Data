@@ -1,0 +1,19 @@
+{
+  "name": "RxSample",
+  "version": "0.0.0",
+  "authors": [
+    "Pragyan Das <pragyandas@msn.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rxjs": "~4.0.6",
+    "d3": "~3.5.8"
+  }
+}
